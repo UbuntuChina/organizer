@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=organizer
+Exec=qmlscene %U organizer/Main.qml
+Icon=organizer/organizer.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

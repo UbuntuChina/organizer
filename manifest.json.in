@@ -1,0 +1,17 @@
+{
+    "name": "organizer.liu-xiao-guo",
+    "description": "description of organizer",
+    "architecture": "@CLICK_ARCH@",
+    "title": "organizer",
+    "hooks": {
+        "organizer": {
+            "apparmor": "organizer/organizer.apparmor",
+            "desktop":  "organizer/organizer.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
